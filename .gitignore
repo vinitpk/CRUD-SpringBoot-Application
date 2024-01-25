@@ -1,0 +1,55 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+# Compiled class file
+*.class
+
+# Log files
+log/
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# Spring Boot
+*.iml
+target/
+!src/main/
+!src/test/
+!src/test/java/
+!src/test/resources/
+
+# Spring Boot DevTools
+.restart
+spring-boot-starter/target/
+spring-boot-autoconfigure/target/
+spring-boot-starter-logging/target/
+spring-boot-starter-web/target/
+spring-boot/target/
+spring-boot-starter/target/
+spring-boot-starter-data-jpa/target/
+spring-boot-starter-security/target/
+spring-boot-starter-test/target/
+spring-boot-test/target/
+spring-boot-test-autoconfigure/target/
+spring-boot-test-autoconfigure/target/
+spring-boot-loader/target/
+spring-boot-tools/target/
+spring-boot-cli/target/
+spring-boot-starter-actuator/target/
+
+# Local configuration file (e.g., application-local.properties)
+application*.properties
