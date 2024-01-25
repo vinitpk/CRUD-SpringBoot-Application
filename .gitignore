@@ -52,4 +52,3 @@ spring-boot-cli/target/
 spring-boot-starter-actuator/target/
 
 # Local configuration file (e.g., application-local.properties)
-application*.properties
